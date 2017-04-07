@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry path="src/main/java" kind="src"/>
+	<classpathentry path="src/main/resources" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/" kind="con"/>
+	<classpathentry path="/Users/brunobasto/.m2/repository/com/liferay/com.liferay.portal.portlet.bridge.soy/3.1.0/com.liferay.portal.portlet.bridge.soy-3.1.0.jar" kind="lib" sourcepath="/Users/brunobasto/.m2/repository/com/liferay/com.liferay.portal.portlet.bridge.soy/3.1.0/com.liferay.portal.portlet.bridge.soy-3.1.0-sources.jar"/>
+	<classpathentry path="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.kernel/2.0.0/2b7c4bb22f87dcf60ccf05d45c972f3944b8e447/com.liferay.portal.kernel-2.0.0.jar" kind="lib" sourcepath="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.kernel/2.0.0/5f91fc8c20afc9b5da91f0b8fd4faf7e2977591f/com.liferay.portal.kernel-2.0.0-sources.jar"/>
+	<classpathentry path="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.util.taglib/2.0.0/b38378e9ab0aabde357c6fbe62ba23d42db910f7/com.liferay.util.taglib-2.0.0.jar" kind="lib" sourcepath="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.util.taglib/2.0.0/fb15d2ec159d096a077bbd94c6557cbc0acc9f7e/com.liferay.util.taglib-2.0.0-sources.jar"/>
+	<classpathentry path="/Users/brunobasto/.m2/repository/javax/portlet/portlet-api/2.0/portlet-api-2.0.jar" kind="lib"/>
+	<classpathentry path="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar" kind="lib" sourcepath="/Users/brunobasto/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/21599814ad9a605b86f3e6381571beccd861a32/servlet-api-2.5-sources.jar"/>
+	<classpathentry path="/Users/brunobasto/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar" kind="lib"/>
+	<classpathentry path="/Users/brunobasto/.m2/repository/org/osgi/org.osgi.compendium/5.0.0/org.osgi.compendium-5.0.0.jar" kind="lib"/>
+</classpath>
